@@ -34,7 +34,7 @@ npm init playwright@latest new-project
 This will create a configuration file, optionally add examples, a GitHub Action workflow and a first test example.spec.ts. You can now jump directly to writing assertions section.
 
 ### Manually
-
+## BY Mudassir Alam
 Add dependency and install browsers.
 
 ```Shell
