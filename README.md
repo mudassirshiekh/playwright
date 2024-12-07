@@ -25,6 +25,7 @@ Playwright has its own test runner for end-to-end tests, we call it Playwright T
 The easiest way to get started with Playwright Test is to run the init command.
 
 ```Shell
+#By Mudassir Alam
 # Run from your project's root directory
 npm init playwright@latest
 # Or create a new project
